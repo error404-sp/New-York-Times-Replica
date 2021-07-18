@@ -1,4 +1,4 @@
-# NYT-Replica
+# New York Times Replica
 
 A replica of New York Times using HTML & CSS only
 
